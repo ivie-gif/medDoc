@@ -1,0 +1,439 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Nav Style */
+.nav-wrapper{
+  border-bottom: 1px solid #80808045;
+  background-color: transparent !important;
+
+}
+.nav-icon{
+  color: black !important;
+}
+.sidenav{
+  width: 250px !important;
+}
+.support-icons-img-Navbar{
+width: 35px;
+height: 30px;
+padding-top: 5px;
+}
+
+/* Herosec style */
+.slider-css{
+  /* width: 50%; */
+  margin-left: 5%;
+  padding-left: auto;
+}
+.hero-button{
+  margin-left: 5%;
+  border-radius: 25px !important;
+}
+.hero-button:hover{
+  background-color: green !important;
+  color: black !important;
+  font-weight: bold;
+}
+
+/* Landing style */
+.landingcard-style{
+  margin-left: 10% !important;
+  margin-right: 10% !important;
+}
+.landingcard{
+  position: relative;
+  z-index: 99999;
+  margin-top: -50px;
+}
+.Iconcard{
+  display: flex;
+}
+.cardpanel-style{
+  background-color: whitesmoke !important;
+  border-color: none !important;
+  margin-bottom: 20px !important;
+}
+.cardpanel-style:hover{
+  background-color: rgb(79, 132, 248) !important;
+ font-weight: bold !important;
+ color: white !important;
+}
+.iconcard-img{
+  height: 30px !important;
+  background-color: whitesmoke;
+  border-radius: 25px !important;
+  margin: 5px 15px 0 0;
+}
+
+
+.herocard{
+  position: relative;
+  margin: -80px 5% 0 5%;
+  z-index: 99999;
+  background-color: white;
+  padding-bottom: 5%;
+}
+.herocard-text{
+  padding: 5% 0 5% 0;
+  font-weight: bold;
+}
+.icons-style{
+  margin-left: 100%;
+  color: blue;
+}
+
+
+/* About style */
+.who-we-are{
+  margin-top: 5% !important;
+}
+.about-button{
+  margin-left: 10%;
+  display: flex;
+}
+.feature-button{
+ padding: 0 15px 10px 15px !important;
+  font-size: 15px !important;
+  border-radius: 30px !important;
+}
+.span-p{
+  margin-top: 10% !important;
+  margin-left: 10%;
+  margin-right: 5%;
+  color: grey;
+}
+.about-h2{
+  margin-top: 2px !important;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+.about-p{
+  font-size: 1.2rem;
+  margin-left: 10%;
+  margin-right: 5%;
+}
+.about-button{
+  margin-top: 7px;
+  margin-left: 10%;
+  border-radius: 25px !important;
+}
+.image-width{
+  width: 80%;
+  margin-top: 10%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
+
+/* mission style */
+.our-mission{
+  margin-top: 5% !important;
+  background-color: whitesmoke;
+}
+.mission-h2{
+  font-weight: bold;
+  margin-left: 10%;
+}
+
+/* services style */
+.services-sec{
+  margin: 7% 7% 0 7% !important;
+ 
+}
+.services-h3{
+  margin-top: 2px;
+  font-weight: bold;
+  margin-bottom: 5% !important;
+}
+.services-h2{
+  margin-top: 5% !important;
+}
+.services-card{
+ background-color: whitesmoke !important;
+}
+.services-card:hover{
+  background-color: rgb(100, 224, 100) !important;
+  color: whitesmoke;
+}
+.services-png{
+margin-left: 45% !important;
+}
+
+/* background-imge */
+.landing-bg{
+ background-image: url("./image/blackdoctor.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 550px;
+  opacity: 0.6;
+}
+div.landing-bg > h5{
+  color: black;
+  font-weight: bold;
+  padding: 15% 15% 0 15%;
+  letter-spacing: 0.1rem;
+}
+
+
+/* contact style */
+.contact-margin{
+  padding-left: 10px !important ;
+  padding-right: 5px !important;
+}
+
+/* marquee style */
+.support-icons{
+  height: 80px;
+  background-color:white;
+  margin-top: -20px;
+}
+.support-icons-img{
+width: 40px;
+margin-top: 5px;
+/* margin-left: 15%; */
+}
+.support-icons-icon{
+  margin-left: 35%;
+  padding-right: 10% !important;
+  }
+  .support-icons-h6{
+    padding-top: 7%;
+    font-weight: bold;
+   
+  }
+  .marquee{
+    display: block;
+    overflow-x: hidden;
+  }
+
+  .card-div{
+    background-color: whitesmoke;
+    margin-top: 5% ;
+  }
+  .card-div-h4{
+    text-align: center;
+    font-weight: bold;
+    padding: 5% 0 3% 0;
+  }
+  .row-card{
+    margin-left: 5%;
+  }
+  .card-content{
+    height: 30%;
+    width: 95%;
+  
+  }
+  
+
+  /* footer */
+  .footer{
+    margin: 5% 0px 0px 0px;
+    padding: 15px 10% 0px 10%;
+    background-color: whitesmoke;
+  }
+  .footer-span{
+    font-weight: lighter;
+  }
+  .footer-logo{
+  display: flex;
+  }
+  .footer-img{
+    width: 45px;
+  }
+  .footer-icon{
+    display: flex;
+  }
+  .footericon-icon{
+    height: 15px;
+    margin-right: 10px;
+  }
+  .footer-logo{
+    margin-top: 5px;
+  }
+  .footer-logo > h6{
+    font-weight: bold;
+  }
+  .button-icon{
+    background-color: #76aa76 !important;
+    display:block;
+    height: 52px !important;
+    width: 52px !important;
+    border-radius: 50% !important;
+  }
+  .sendicon-icon{
+   height: 45px ;
+   padding-top: 12px;
+   padding-left: 10px;
+  }
+  .button-icon:hover{
+    background-color: blue !important;
+  }
+  .newsletter-p{
+    font-size: 0.9rem;
+    color: grey;
+  }
+  .socials{
+    display: flex;
+    border-top: 1px solid #e1e1e1;
+  }
+  .socials-icon{
+    height: 15px;
+    margin-left: 10px;
+    margin-top: 15px;
+  }
+  .socials-p{
+    margin-top:10px;
+    margin-right: 10px;
+  }
+  .div-h5{
+  font-weight: bold;
+  }
+  .second-footer{
+    background-color: rgb(245, 240, 240);
+    margin-top: -20px;
+    padding-top: 3%;
+    padding-left: 10%;
+   height: 100px !important;
+  }
+  .privacy{
+    margin-left: 65px !important ;
+  }
+  .secondfooter-icon{
+    padding-left: 50px !important;
+    margin-top: 5px !important;
+  }
+  .second-footericon{
+    height: 25px;
+    margin-left: 15px;
+  }
+  
+
+
+
+.card .card-content{
+  padding: 0px !important;
+}
+
+/* specialist style */
+.Specialist-style{
+  background-color: whitesmoke;
+  margin-top: 5px;
+}
+.specialist-h6{
+  margin-top: 5%;
+  padding-top: 5%;
+}
+.doctors-img{
+margin-top: 3%;
+width: 70%;
+margin-left: 20%;
+border-radius: 15px;
+}
+.specialist-p{
+  padding-bottom: 10px !important;
+}
+
+/* testimonial */
+
+div.testimonial img {
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  margin-left: 40%;
+  margin-top: -30px;
+}
+div.testimonial p{
+  margin-left: 30px !important ;
+  text-align: center;
+  margin-top: 15% !important;
+ font-size: 15px;
+}
+.testimonial-card{
+  background-color: gainsboro !important;
+  width: 100% !important;
+}
+div.testimonial p > img {
+  height: 20px !important;
+  width: 20px;
+  margin-left: 1px !important
+}
+div.testimonial h6{
+  text-align: center !important;
+  padding-bottom: 30px !important;
+  padding-top: 15px !important;
+  color: #76aa67 !important;
+}
+
+/* modal button */
+.buttonsignup{
+  width: 100%;
+  margin-right: 10px;
+  margin-top: 15px;
+  border-radius: 25px !important;
+  margin-left: 10px;
+  padding-bottom: 5px !important;
+}
+.modal-signup{
+  display: flex;
+}
+.signup-icon{
+  width: 30px;
+}
+.user-icon{
+  width: 20px;
+  margin-left: 10px;
+}
+.div-signup-icon{
+  margin: 15px 0px 10px 42%;
+}
+.signup{
+  width: 90%;
+  margin: 30px auto;
+  box-shadow: 0 0 4px 2px rgb(38, 153, 251, .18);
+  border-radius: 5px !important;
+}
+.buttonsignup-form{
+  width: 50%;
+  margin-right: 10px;
+  margin-top: 15px;
+  border-radius: 25px !important;
+  margin-left: 10px;
+  padding-bottom: 10px !important;
+  font-weight: bold;
+  font-size: 20px;
+}
+div.modal-footer{
+  display: none !important;
+}
+.buttonlogin {
+  width: 70%;
+  margin: 15px 10px 5px 15% ;
+  border-radius: 20px !important;
+  padding-bottom: 10px !important;
+  font-weight: bold;
+  font-size: 20px;
+}
+.login{
+  width: 50%;
+  margin: 70px auto;
+  padding: 20px;
+  box-shadow: 0 0 4px 2px rgb(38, 153, 251, .18);
+}
+input{
+  width: 90%;
+  padding: 10px 12px;
+}
+.login-title, .signup-title{
+  display: block;
+  text-align: center;
+  font-size: 40px;
+}
+
+.dashboard-img{
+margin-left: 15%;
+width: 50%;
+height: 150px;
+margin-top: 3%;
+}
