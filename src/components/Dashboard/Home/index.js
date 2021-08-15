@@ -1,30 +1,32 @@
-import React from 'react';
+import React from "react";
 
-import {Row, Col, Container} from 'react-materialize'
+import { Row, Col, Container } from "react-materialize";
+
 
 const Index = () => {
-    return (
-        <div>
+  return (
 
+    <div>
 
-            <Container>
-            <Row>
-                <Col m={6} s={12}>
-            <img src="./dashboardimg.PNG" alt="img" className="dashboard-img"/>
+        <div className="dashboard-banner z-depth-2">
+          <Row>
+          <Col m={6} s={12}>
+              <h4>
+                Hello, Sheraton
+              </h4>
+              <h6>Have a nice day and dont forget to take care of your health.</h6>
             </Col>
             <Col m={6} s={12}>
-            <h4>
-                Get amazing health tips on how to live healthy and stay fit.
-            </h4>
-            <h6>
-                A delightful new way to stay alive, strong and healthy.
-            </h6>
+              <img
+                src="./med3.PNG"
+                alt="img"
+                className="dashboard-image"
+              />
             </Col>
-            </Row>
-            </Container>
-        
-
+          </Row>
         </div>
-    )
-}
+
+    </div>
+  );
+};
 export default Index;

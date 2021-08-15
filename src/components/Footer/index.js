@@ -12,7 +12,7 @@ const Index = () => {
             <Col m={4} s={12}> 
 
                 <div className="footer-logo">
-                <img src="./icon1.PNG" className="footer-img"/>
+                <img src="./icon1.PNG" alt="footer=img" className="footer-img"/>
                 <h6 className="black-text">
                     MedDoc<br/>
                    <span className="footer-span"> We Care</span>
@@ -26,10 +26,10 @@ const Index = () => {
                 <br/>
                 <div className="socials">
                 <p className="socials-p">Get Socials </p>
-                <img src="https://img.icons8.com/material/2x/facebook-f.png" className="socials-icon" />
-                <img src="https://img.icons8.com/fluent-systems-filled/2x/github.png" className="socials-icon" />
-                <img src="https://img.icons8.com/material/2x/twitter-squared.png" className="socials-icon" />
-                <img src="https://img.icons8.com/material-sharp/2x/google-logo.png" className="socials-icon" />
+                <img src="https://img.icons8.com/material/2x/facebook-f.png" alt="footer=img" className="socials-icon" />
+                <img src="https://img.icons8.com/fluent-systems-filled/2x/github.png" alt="footer=img" className="socials-icon" />
+                <img src="https://img.icons8.com/material/2x/twitter-squared.png" alt="footer=img" className="socials-icon" />
+                <img src="https://img.icons8.com/material-sharp/2x/google-logo.png" alt="footer=img" className="socials-icon" />
                 </div>
             </Col>
 
@@ -37,19 +37,19 @@ const Index = () => {
                 <h5 className="div-h5">CONTACT</h5>
                 <br/>
                 <div className="footer-icon">
-                <img src="https://img.icons8.com/material/2x/26e07f/worldwide-location.png" className="footericon-icon" /> 
+                <img src="https://img.icons8.com/material/2x/26e07f/worldwide-location.png" alt="footer=img" className="footericon-icon" /> 
                 <p>27th Lane, lekki pennisula
                     <br/> lagos, Nigeria.
                 </p>
                 </div>
                 <br/>
                 <div className="footer-icon">
-                <img src="https://img.icons8.com/metro/2x/26e07f/phone.png" className="footericon-icon" /> 
+                <img src="https://img.icons8.com/metro/2x/26e07f/phone.png" alt="footer=img" className="footericon-icon" /> 
                 <p>+234-708-443-678</p>
                 </div>
                 <br/>
                 <div className="footer-icon">
-                <img src="https://img.icons8.com/fluent-systems-regular/2x/26e07f/new-post.png" className="footericon-icon" /> 
+                <img src="https://img.icons8.com/fluent-systems-regular/2x/26e07f/new-post.png" alt="footer=img" className="footericon-icon" /> 
                 <p>meddoc@yahoo.com</p>
                 </div>
             </Col>
@@ -71,7 +71,7 @@ const Index = () => {
                     className="button-icon"
                   > 
                     <Icon right className="send-icon">
-                      <img src="https://img.icons8.com/dotty/2x/filled-sent.png" className="sendicon-icon"/>
+                      <img src="https://img.icons8.com/dotty/2x/filled-sent.png" alt="footer=img" className="sendicon-icon"/>
                     </Icon>
                   </Button>
             </Col>
@@ -84,9 +84,9 @@ const Index = () => {
                 <p className="grey-text">© 2020 MedDoc.  All rights reserved.</p>
                 </Col>
                 <Col m={4} s={12} className="secondfooter-icon">
-                <img src="https://img.icons8.com/wired/2x/card-in-use.png" className="second-footericon" />
-                <img src="https://img.icons8.com/ios/2x/paypal.png" className="second-footericon" />
-                <img src="https://img.icons8.com/ios-filled/2x/mastercard-logo.png" className="second-footericon" />
+                <img src="https://img.icons8.com/wired/2x/card-in-use.png" alt="footer=img" className="second-footericon" />
+                <img src="https://img.icons8.com/ios/2x/paypal.png"alt="footer=img"  className="second-footericon" />
+                <img src="https://img.icons8.com/ios-filled/2x/mastercard-logo.png" alt="footer=img" className="second-footericon" />
                 </Col>
                 <Col m={4} s={12}>
                 <h6 className="grey-text privacy">Privacy Policy</h6>
