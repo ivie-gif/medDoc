@@ -431,9 +431,29 @@ input{
   font-size: 40px;
 }
 
+/* dashbaord styling */
 .dashboard-img{
 margin-left: 15%;
 width: 50%;
 height: 150px;
 margin-top: 3%;
 }
+.dashboard-banner{
+  background-color: white;
+  border-radius: 15px;
+  margin-top: 5%;
+  padding: 10px;
+  box-shadow: green !important;
+}
+.card-container {
+  margin: 5% -12% 5% -12%;
+}
+.dash-card {
+  border-radius: 20px !important;
+}
+.dashboard-image{
+  margin-left: 15%;
+  width: 50%;
+  height: -250px;
+  margin-top: -10%;
+  }

@@ -30,7 +30,7 @@ const Index = () => {
                 
                 <CardPanel className="cardpanel-style z-depth-0">
                     <div className="Iconcard">
-                    <img src="https://img.icons8.com/fluent-systems-filled/2x/4a90e2/phone.png" className="iconcard-img" />
+                    <img src="https://img.icons8.com/fluent-systems-filled/2x/4a90e2/phone.png" alt="landing-img" className="iconcard-img" />
                 <span className="black-text">
                     Call Us On <br/>
                     +234-703-445-5678
@@ -47,7 +47,7 @@ const Index = () => {
             >
                 <CardPanel className="cardpanel-style z-depth-0">
                 <div className="Iconcard">
-                    <img src="https://img.icons8.com/fluent-systems-filled/2x/4a90e2/new-post.png" className="iconcard-img" />
+                    <img src="https://img.icons8.com/fluent-systems-filled/2x/4a90e2/new-post.png" alt="landing-img" className="iconcard-img" />
                 <span className="black-text">
                     Send a Message <br/>
                     meddoc@yahoo.com
@@ -63,7 +63,7 @@ const Index = () => {
             >
                 <CardPanel className="cardpanel-style z-depth-0">
                 <div className="Iconcard">
-                    <img src="https://img.icons8.com/metro/2x/4a90e2/marker.png" className="iconcard-img" />
+                    <img src="https://img.icons8.com/metro/2x/4a90e2/marker.png" alt="landing-img" className="iconcard-img" />
                 <span className="black-text">
                     Visit Us <br/>
                     Lekki Axis, VI, Lagos
@@ -130,7 +130,7 @@ const Index = () => {
             <div className="landing-bg">
                 
                 <h5 className="center-align">
-                <img src="https://img.icons8.com/ios-glyphs/2x/quote-right.png" /> <br/>
+                <img src="https://img.icons8.com/ios-glyphs/2x/quote-right.png"alt="landing-img"  /> <br/>
                 We got you covered for any illness with stigmtization.
                         Your Mental health is our responsibility irrespective of your 
                         location, place and 
@@ -149,7 +149,7 @@ const Index = () => {
                     s={12}
                     >
                         <Icon large>
-                        <img src ="https://img.icons8.com/emoji/2x/hospital-emoji.png" className="blue-text icons-style hoverable" />
+                        <img src ="https://img.icons8.com/emoji/2x/hospital-emoji.png" alt="landing-img" className="blue-text icons-style hoverable" />
                         </Icon>
                         <p className="center-align"> We got you covered for any illness with stigmtization,
                          and you do not need to make any appearance in the hospital, our online doctors are
@@ -161,7 +161,7 @@ const Index = () => {
                     s={12}
                     >
                         <Icon large>
-                        <img src ="https://img.icons8.com/ios-filled/2x/wise-mind.png" className="blue-text icons-style hoverable" />
+                        <img src ="https://img.icons8.com/ios-filled/2x/wise-mind.png" alt="landing-img" className="blue-text icons-style hoverable" />
                         </Icon>
                         <p className="center-align"> We got you covered for any illness with stigmtization.
                         Your Mental health is our responsibility irrespective of your location, place and 
@@ -173,7 +173,7 @@ const Index = () => {
                     s={12}
                     >
                         <Icon large>
-                        <img src ="https://img.icons8.com/emoji/2x/woman-health-worker.png" className="blue-text icons-style hoverable" />
+                        <img src ="https://img.icons8.com/emoji/2x/woman-health-worker.png" alt="landing-img" className="blue-text icons-style hoverable" />
                         </Icon>
                         <p className="center-align"> We got you covered for any illness with stigmtization.
                         Our platform is filled with registered and licensed medical practitioners in specialised 

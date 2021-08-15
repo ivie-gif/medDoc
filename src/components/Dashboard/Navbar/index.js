@@ -10,7 +10,7 @@ const Index = () => {
 
 <Navbar
   alignLinks="right"
-  brand={<a className="brand-logo black-text" href="#">Healthy-Health</a>}
+  brand={<a className="brand-logo blue-text" href="#">MedDoc</a>}
   id="mobile-nav"
   menuIcon={<Icon className="nav-icon">menu</Icon>}
   options={{
